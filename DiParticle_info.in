@@ -59,7 +59,7 @@ DiJet
 
 DiscrByDeltaR                   1    
 DeltaRCut                     0.3    
-DiscrByDeltaEta                 1    
+DiscrByDeltaEta                 0    
 DeltaEtaCut                   4.0    9999.0
 DiscrByDeltaPhi                 0    
 DeltaPhiCut                     0    9999.0
