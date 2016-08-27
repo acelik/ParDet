@@ -1,0 +1,111 @@
+Smear
+
+MatchToGen                        0
+UseMotherID                       0
+MotherID                        23.
+GenMatchingDeltaR               0.2
+SmearTheParticle                  0
+PtScaleOffset                   1.0
+PtSigmaOffset                   1.0
+EtaScaleOffset                  1.0
+EtaSigmaOffset                  1.0
+PhiScaleOffset                  1.0
+PhiSigmaOffset                  1.0
+EnergyScaleOffset               1.0
+EnergySigmaOffset               1.0
+
+Muon1
+
+EtaCut                          2.4    
+PtCut                           8.0    9999.9
+DoDiscrByTightID                  0    
+DoDiscrBySoftID                   1    
+DoDiscrByIsolation                1    
+IsoSumPtCutValue                0.0    0.15
+DiscrIfIsZdecay                   0    
+DiscrByMetDphi                    0    
+MetDphiCut                     1.30    3.15
+DiscrByMetMt                      0    
+MetMtCut                        0.0    40.0
+DoElectron1DiscrByDeltaR          1    
+Electron1DeltaRCut              0.3    
+Electron1DiscrByOSLSType       NONE    
+DoElectron1DiscrByCosDphi         0    
+Electron1CosDphiCut           -1.00    -0.95
+DoDiscrByElectron1Mass            0    
+UseVectorSumOfElectron1ProductsAndMetMass       0    
+UseCollinerApproxElectron1Mass       0    
+Electron1MassCut                0.0    200.0
+DoElectron1DiscrByCDFzeta2D       0    
+Electron1PZetaCutCoefficient     1.0    
+Electron1PZetaVisCutCoefficient    -3.1    
+Electron1CDFzeta2DCutValue    -50.0    9999.0
+DoElectron1DiscrByDeltaPtDivSumPt       0    
+Electron1DeltaPtDivSumPtCutValue     0.1    1.0
+DoElectron1DiscrByDeltaPt         0    
+Electron1DeltaPtCutValue       30.0    9999.0
+DoElectron2DiscrByDeltaR          1    
+Electron2DeltaRCut              0.3    
+Electron2DiscrByOSLSType       NONE    
+DoElectron2DiscrByCosDphi         0    
+Electron2CosDphiCut           -1.00    -0.95
+DoDiscrByElectron2Mass            0    
+UseVectorSumOfElectron2ProductsAndMetMass       0    
+UseCollinerApproxElectron2Mass       0    
+Electron2MassCut                0.0    200.0
+DoElectron2DiscrByCDFzeta2D       0    
+Electron2PZetaCutCoefficient     1.0    
+Electron2PZetaVisCutCoefficient    -3.1    
+Electron2CDFzeta2DCutValue    -50.0    9999.0
+DoElectron2DiscrByDeltaPtDivSumPt       0    
+Electron2DeltaPtDivSumPtCutValue     0.1    1.0
+DoElectron2DiscrByDeltaPt         0    
+Electron2DeltaPtCutValue       30.0    9999.0
+
+Muon2
+
+EtaCut                          2.4    
+PtCut                          8.0    9999.9
+DoDiscrByTightID                  0    
+DoDiscrBySoftID                   1    
+DoDiscrByIsolation                1    
+IsoSumPtCutValue                0.0    0.15
+DiscrIfIsZdecay                   0    
+DiscrByMetDphi                    0    
+MetDphiCut                     1.30    3.15
+DiscrByMetMt                      0    
+MetMtCut                        0.0    99999.9
+DoElectron1DiscrByDeltaR          1    
+Electron1DeltaRCut              0.3    
+Electron1DiscrByOSLSType       NONE    
+DoElectron1DiscrByCosDphi         0    
+Electron1CosDphiCut           -1.00    -0.95
+DoDiscrByElectron1Mass            0    
+UseVectorSumOfElectron1ProductsAndMetMass       0    
+UseCollinerApproxElectron1Mass       0    
+Electron1MassCut                0.0    200.0
+DoElectron1DiscrByCDFzeta2D       0    
+Electron1PZetaCutCoefficient     1.0    
+Electron1PZetaVisCutCoefficient    -3.1    
+Electron1CDFzeta2DCutValue    -50.0    9999.0
+DoElectron1DiscrByDeltaPtDivSumPt       0    
+Electron1DeltaPtDivSumPtCutValue     0.1    1.0
+DoElectron1DiscrByDeltaPt         0    
+Electron1DeltaPtCutValue       30.0    9999.0
+DoElectron2DiscrByDeltaR          1    
+Electron2DeltaRCut              0.3    
+Electron2DiscrByOSLSType       NONE    
+DoElectron2DiscrByCosDphi         0    
+Electron2CosDphiCut           -1.00    -0.95
+DoDiscrByElectron2Mass            0    
+UseVectorSumOfElectron2ProductsAndMetMass       0    
+UseCollinerApproxElectron2Mass       0    
+Electron2MassCut                0.0    200.0
+DoElectron2DiscrByCDFzeta2D       0    
+Electron2PZetaCutCoefficient     1.0    
+Electron2PZetaVisCutCoefficient    -3.1    
+Electron2CDFzeta2DCutValue    -50.0    9999.0
+DoElectron2DiscrByDeltaPtDivSumPt       0    
+Electron2DeltaPtDivSumPtCutValue     0.1    1.0
+DoElectron2DiscrByDeltaPt         0    
+Electron2DeltaPtCutValue       30.0    9999.0
